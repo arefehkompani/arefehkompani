@@ -11,7 +11,7 @@ I'm Arefeh Kompani, a passionate Software Engineering student 💻.
 - :computer:I love coding and foreign languages ;)
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: She/Her.
-- 📫 How to reach me: kompaniiarefeh@gmail.com.
+- 📫 How to reach me: arefehkompanii@gmail.com.
 
 
 <hr>
