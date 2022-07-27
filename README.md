@@ -26,5 +26,5 @@ I'm Arefeh Kompani, a passionate Software Engineering student 💻.
 
 ### ⚙️ &nbsp; Git Analytics
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arefehkompani&theme=dark&show_icons=true" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefehkompani&theme=dark&layout=compact" width="410" /></p>
