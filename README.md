@@ -7,7 +7,7 @@ I'm Arefeh Kompani, a passionate Software Engineering student 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about Vue.js.
+- :seedling: I’m currently learning about Three.js.
 - :computer:I love coding and foreign languages ;)
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: She/Her.
