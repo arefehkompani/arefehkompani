@@ -19,7 +19,7 @@ const arefeh = {
             js: ["Node", "Express"],
             php: ["Laravel"]
         },
-        FrontEnd: {
+        frontEnd: {
             js: ["Vue"]
         },
         devOps: ["Docker🐳"],
