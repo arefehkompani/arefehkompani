@@ -3,10 +3,6 @@
  <p/>
 <h1 align="center"> Hi! I'm Arefeh :) </h1>
 
-I'm Arefeh Kompani, a passionate Software Engineering student 💻.
-
-<hr>
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -36,7 +32,24 @@ const arefeh = {
 
 <hr>
 
+### :ok_woman: &nbsp; My profile stats here:
+<div align="center">
+  <a href="https://github.com/arefehkompani">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arefehkompani&theme=slateorange" />
+  </a>
+  
+  </div>
+
+<div align="center">
+  <a href="https://github.com/arefehkompani">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=arefehkompani&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+  </a>
+  
+</div>
+<hr>
+
 ### ⚙️ &nbsp; Git Analytics
  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefehkompani&theme=dark&layout=compact" width="410" /></p>
+<div align="center">
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefehkompani&theme=dark&layout=compact" width="410" /></p>
+</div>
