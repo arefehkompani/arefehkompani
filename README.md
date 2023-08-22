@@ -19,7 +19,7 @@ const arefeh = {
             js: ["Vue"]
         },
         devOps: ["Docker🐳"],
-        databases: ["mongo", "MySql"],
+        databases: ["Mongo", "MySql"],
         misc: ["Socket.IO", "selenium"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
@@ -32,21 +32,6 @@ const arefeh = {
 
 <hr>
 
-### :ok_woman: &nbsp; My profile stats here:
-<div align="center">
-  <a href="https://github.com/arefehkompani">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arefehkompani&theme=slateorange" />
-  </a>
-  
-  </div>
-
-<div align="center">
-  <a href="https://github.com/arefehkompani">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=arefehkompani&theme=rising-sun&hide_border=true&exclude_days=Sun" />
-  </a>
-  
-</div>
-<hr>
 
 ### ⚙️ &nbsp; Git Analytics
  
